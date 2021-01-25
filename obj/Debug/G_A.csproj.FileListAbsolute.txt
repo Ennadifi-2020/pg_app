@@ -1,0 +1,52 @@
+C:\Users\Youcode\Desktop\G_A\bin\Debug\G_A.exe.config
+C:\Users\Youcode\Desktop\G_A\bin\Debug\G_A.exe
+C:\Users\Youcode\Desktop\G_A\bin\Debug\G_A.pdb
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\G_A\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\G_A\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A_MarkupCompile.cache
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A_MarkupCompile.lref
+C:\Users\Youcode\Desktop\G_A\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.g.resources
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.Properties.Resources.resources
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.exe
+C:\Users\Youcode\Desktop\G_A\obj\Debug\G_A.pdb
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.csprojAssemblyReference.cache
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\App.g.cs
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A_MarkupCompile.cache
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A_MarkupCompile.lref
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.exe
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.pdb
+C:\Users\Administrateur\Downloads\G_A\bin\Debug\G_A.exe.config
+C:\Users\Administrateur\Downloads\G_A\bin\Debug\G_A.exe
+C:\Users\Administrateur\Downloads\G_A\bin\Debug\G_A.pdb
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.g.resources
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.Properties.Resources.resources
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.csproj.GenerateResource.cache
+C:\Users\Administrateur\Downloads\G_A\obj\Debug\G_A.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\G_A.exe.config
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\G_A.exe
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\G_A.pdb
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A_MarkupCompile.cache
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A_MarkupCompile.lref
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.g.resources
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.Properties.Resources.resources
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.exe
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.pdb
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\Desktop\c charp\G_A\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\App.baml
+C:\Users\Youcode\Desktop\c charp\G_A\obj\Debug\G_A.csproj.CopyComplete
